@@ -17,4 +17,4 @@
 
 ## CodeWard Stats
 
-https://github-readme-codewars-stats.herokuapp.com/api/?username=[your username]&badge&name_only
+!https://github-readme-codewars-stats.herokuapp.com/api/?username=[your username]&badge&name_only]

@@ -15,6 +15,3 @@
 ![Git](https://img.shields.io/badge/git-090909.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## CodeWard Stats
-
-https://github-readme-codewars-stats.herokuapp.com/api/?username=[Kycenko]&badge&name_only

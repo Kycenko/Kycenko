@@ -17,4 +17,4 @@
 
 ## CodeWard Stats
 
-![CodeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=[your username]&badge&name_only)
+![CodeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=[Kycenko]&badge&name_only)

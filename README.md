@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm beginner JavaScript Developer
 
 ## Languages 
 

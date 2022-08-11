@@ -1,4 +1,4 @@
-### Hi there 👋:purple_heart:, i'm beginner JavaScript Developer
+### Hi there :purple_heart:, i'm beginner JavaScript Developer
 
 ## Languages and Tools
 

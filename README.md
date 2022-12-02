@@ -1,5 +1,4 @@
-### Hi there, i'm beginner JavaScript Developer
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Vlad;Passionate+Software+developer;Lifelong+Learner;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Vlad;;;Welcome+to+my+profile!)
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-090909.svg?style=for-the-badge&logo=javascript&logoColor=white)

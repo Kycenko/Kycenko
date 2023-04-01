@@ -5,7 +5,6 @@
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
 
----
 ## Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)  

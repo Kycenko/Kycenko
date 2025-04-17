@@ -9,6 +9,6 @@ Hi 👋 I'm a fullstack developer.
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma)](https://skillicons.dev)  
 
 ## 🛠 **Tools & DevOps**  
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)  
 
 

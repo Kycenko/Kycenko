@@ -11,4 +11,8 @@ Hi 👋 I'm a fullstack developer.
 ## 🛠 **Tools & DevOps**  
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)  
 
+### **⚔️ Codewars**  
+[![Codewars](https://www.codewars.com/users/Kycenko/badges/large)](https://www.codewars.com/users/username)  
 
+### **💻 LeetCode**  
+[![LeetCode Stats](https://leetcode.card.workers.dev/Kycenko?theme=light)](https://leetcode.com/username/)  
